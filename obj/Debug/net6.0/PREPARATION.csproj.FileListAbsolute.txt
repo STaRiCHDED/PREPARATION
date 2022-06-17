@@ -1,0 +1,15 @@
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/bin/Debug/net6.0/PREPARATION
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/bin/Debug/net6.0/PREPARATION.deps.json
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/bin/Debug/net6.0/PREPARATION.runtimeconfig.json
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/bin/Debug/net6.0/PREPARATION.dll
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/bin/Debug/net6.0/ref/PREPARATION.dll
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/bin/Debug/net6.0/PREPARATION.pdb
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/obj/Debug/net6.0/PREPARATION.csproj.AssemblyReference.cache
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/obj/Debug/net6.0/PREPARATION.GeneratedMSBuildEditorConfig.editorconfig
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/obj/Debug/net6.0/PREPARATION.AssemblyInfoInputs.cache
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/obj/Debug/net6.0/PREPARATION.AssemblyInfo.cs
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/obj/Debug/net6.0/PREPARATION.csproj.CoreCompileInputs.cache
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/obj/Debug/net6.0/PREPARATION.dll
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/obj/Debug/net6.0/ref/PREPARATION.dll
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/obj/Debug/net6.0/PREPARATION.pdb
+/Users/starich/RiderProjects/PREPARATION/PREPARATION/obj/Debug/net6.0/PREPARATION.genruntimeconfig.cache
